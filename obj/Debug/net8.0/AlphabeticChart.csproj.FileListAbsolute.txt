@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\AlphabeticChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\AlphabeticChart.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\AlphabeticChart.AssemblyInfo.cs
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\AlphabeticChart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\AlphabeticChart.sourcelink.json
+C:\Users\User\Desktop\MGQS\AlphabeticChart\bin\Debug\net8.0\AlphabeticChart.exe
+C:\Users\User\Desktop\MGQS\AlphabeticChart\bin\Debug\net8.0\AlphabeticChart.deps.json
+C:\Users\User\Desktop\MGQS\AlphabeticChart\bin\Debug\net8.0\AlphabeticChart.runtimeconfig.json
+C:\Users\User\Desktop\MGQS\AlphabeticChart\bin\Debug\net8.0\AlphabeticChart.dll
+C:\Users\User\Desktop\MGQS\AlphabeticChart\bin\Debug\net8.0\AlphabeticChart.pdb
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\AlphabeticChart.dll
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\refint\AlphabeticChart.dll
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\AlphabeticChart.pdb
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\AlphabeticChart.genruntimeconfig.cache
+C:\Users\User\Desktop\MGQS\AlphabeticChart\obj\Debug\net8.0\ref\AlphabeticChart.dll
